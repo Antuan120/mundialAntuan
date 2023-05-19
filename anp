@@ -7,4 +7,8 @@ Tercera linea de codigo
 
 //Cambios desde GITHUB
 //Otro cambio desde github
+<<<<<<< HEAD
 //comentario desde git para generar conflicto
+=======
+//Otro cambio desde github para generar conflicto
+>>>>>>> 309801e3f3067fc96090a407c59503a4a8bd6a17
